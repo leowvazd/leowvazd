@@ -7,6 +7,7 @@ int main()  {
 - 🌱 I’m currently learning: 
     
     Science Computer (#C, Java, Python, etc) by UFABC;
+
     Kotlin by Santander Tecnology Bootcamp;
 
 - 💞️ I’m looking to collaborate on any new projects to develop it;
