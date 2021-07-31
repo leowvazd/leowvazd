@@ -12,7 +12,8 @@ int main()  {
 
     Linkedin: https://www.linkedin.com/in/leonardo-vaz-5a4185208/
 
-Bye and thank you! :)
+- 👋 Bye and thank you! :)
+
 return 0;
 
 }
