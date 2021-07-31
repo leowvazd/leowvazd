@@ -4,7 +4,10 @@ int main()  {
 
 - 👀 I’m interested in mobile/ android with Kotlin contents;
 
-- 🌱 I’m currently learning #C, Java, Python by UFABC and Kotlin by Santander Tecnology;
+- 🌱 I’m currently learning: 
+    
+    Science Computer (#C, Java, Python, etc) by UFABC;
+    Kotlin by Santander Tecnology Bootcamp;
 
 - 💞️ I’m looking to collaborate on any new projects to develop it;
 
