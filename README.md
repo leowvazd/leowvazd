@@ -8,8 +8,6 @@ int main()  {
     
     Science Computer (#C, Java, Python, Algorithms, etc) by University Federal of Abc (UFABC);
 
-    Kotlin by Santander Tecnology Bootcamp;
-
 - 💞️ I’m looking to collaborate on any new projects to develop it;
 
 - 📫 How to reach me:
