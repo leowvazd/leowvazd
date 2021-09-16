@@ -1,4 +1,4 @@
-## Oi! Eu sou a Leonardo Vaz 🤓
+## Oi! Eu sou a Leonardo Vaz ツ
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=leowvazd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
