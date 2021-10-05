@@ -1,12 +1,6 @@
 ## Hi! I'm Leo ツ
 
 <div align="center">
-  <img align="center" alt="Coding" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
-</div>
-
-  ##
-
-<div align="center">
   <a href="https://github.com/leowvazd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leowvazd&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowvazd&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
