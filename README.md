@@ -1,4 +1,5 @@
-## Hi! I'm Leonardo Vaz ツ
+## Hi! I'm Leo ツ
+
 <div align="center">
   <img align="center" alt="Coding" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
 </div>
