@@ -38,10 +38,3 @@
   ![Snake animation](https://github.com/leowvazd/leowvazd/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  <a href="https://github.com/leowvazd/Avanade-FIAP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leowvazd&repo=Avanade-FIAP" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
