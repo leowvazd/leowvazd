@@ -1,4 +1,4 @@
-## Hi! I'm Leo ツ
+  ## Hi! I'm Leo ツ
 
 <div align="center">
   <img align="center" alt="Coding" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
@@ -13,17 +13,16 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">  
+  <img align="center" alt="Leo-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Leo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="Leo-ShaderLab" height="30" width="40" src="https://i.ibb.co/Wxg94yW/community-Icon-f7edf7fo39s41-removebg-preview.png">
   <img align="center" alt="Leo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Leo-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Leo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Leo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Leo-ShaderLab" height="30" width="40" src="https://i.ibb.co/Wxg94yW/community-Icon-f7edf7fo39s41-removebg-preview.png">
-  <img align="center" alt="Leo-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Leo-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;"src="https://c.tenor.com/0a0B6buLFhgAAAAC/robotchicken-nerd.gif">
-  
 
 </div>
   
