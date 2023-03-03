@@ -1,7 +1,7 @@
   ## Hi! I'm Leo
 
 <div align="center">
-  <img align="center" alt="Coding" src="https://bipedepop.files.wordpress.com/2018/01/8ea1c0fc-dcf9-4fc6-9df0-b6e403f07bb7.gif?w=720">
+  <img align="center" alt="Coding" src="https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif">
 </div> 
 
   ## 
