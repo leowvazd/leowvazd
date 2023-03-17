@@ -1,15 +1,15 @@
   ## Hi! I'm Leo
 
 <div align="center">
-  <img align="center" alt="Coding" height="380" width="1020" src="https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif">
+  <img align="center" alt="Coding" height="380" width="1020" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif">
 </div> 
 
   ## 
   
 <div align="center">
   <a href="https://github.com/leowvazd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leowvazd&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowvazd&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leowvazd&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowvazd&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
 <div style="display: inline_block"><br>
