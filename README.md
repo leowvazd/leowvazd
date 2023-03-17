@@ -1,7 +1,7 @@
   ## Hi! I'm Leo
 
 <div align="center">
-  <img align="center" alt="Coding" height="380" width="1020" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif">
+  <img align="center" alt="Coding" height="320" width="1020" src="https://i.pinimg.com/originals/55/04/f3/5504f391fb5a8207265e854e4343e65b.gif">
 </div> 
 
   ## 
